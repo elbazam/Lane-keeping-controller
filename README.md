@@ -1,7 +1,8 @@
 # Lane-keeping-controller
 
-Matlab simulation for lane keeping controller.
+Matlab and simulink simulation for lane keeping controller.
 Based on https://doi.org/10.1080/00423110600870006
+
 "Lane keeping control strategy with direct yaw moment control input by considering dynamics of electric vehicle"
 
 ## Trajectory
@@ -13,7 +14,7 @@ Based on https://doi.org/10.1080/00423110600870006
 
 - Matlab version >= 2019a 
 
-## Execution:
+## Execution
 
 - Execute: values_of_car.m
 - Execute: lane_keeping_control_system_by_DYC_block_diagram.slx
