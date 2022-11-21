@@ -1,3 +1,7 @@
+### Acknowledgement
+
+This work was done collaborating with <a href="https://github.com/igalka93" target="_blank">Igal Pinsky</a>, please follow his works.
+
 # Lane-keeping-controller
 
 Matlab and simulink simulation for lane keeping controller.
